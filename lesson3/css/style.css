@@ -1,5 +1,4 @@
 table {
-  font-size: 260px;
   text-transform: uppercase;
   border-collapse: collapse;
 }
@@ -8,6 +7,7 @@ th,
 td,
 caption {
   border: 1px solid #000;
+  font-size: 260px;
 }
 
 caption {
